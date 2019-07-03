@@ -1,0 +1,21 @@
+{
+  "senderPublicKey": "d69ce38577bdeaaf288b215bb6bb53b4a8e4a598ffd0b2d97e4d46694caffc70",
+  "signature": "bb0bf34e69697afb691109d345616890744642356787deb221ed0fbcb4f5b2082cb7c7ba39dd1624c9533d7e5c7ced55e6f49abb1f801cd84bd79f83d7effa0b",
+  "feeNQT": 0,
+  "type": 0,
+  "version": 0,
+  "ecBlockId": "0",
+  "attachment": {
+    "version.OrdinaryPayment": 0,
+    "version.PublicKeyAnnouncement": 0,
+    "recipientPublicKey": "d69ce38577bdeaaf288b215bb6bb53b4a8e4a598ffd0b2d97e4d46694caffc70"
+  },
+  "subtype": 0,
+  "amountNQT": 10100000000,
+  "recipient": "2195323509041580970",
+  "ecBlockHeight": 0,
+  "deadline": 0,
+  "timestamp": 0
+}
+
+

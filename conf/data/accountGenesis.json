@@ -1,0 +1,20 @@
+{
+  "passphrase": "respond crack consider sleep strife joke rise slight better volume sadness lick",
+  "address": "NXT-TLXC-58KR-9MY8-3VUXW",
+  "account": "2195323509041580970",
+  "pubkey": "d69ce38577bdeaaf288b215bb6bb53b4a8e4a598ffd0b2d97e4d46694caffc70",
+  "bytePubkey": {
+  },
+  "initialTx": {
+    "type": 0,
+    "subtype": 0,
+    "timestamp": 0,
+    "deadline": 0,
+    "senderPublicKey": "d69ce38577bdeaaf288b215bb6bb53b4a8e4a598ffd0b2d97e4d46694caffc70",
+    "recipient": "2195323509041580970",
+    "amountNQT": 10100000000,
+    "feeNQT": 0,
+    "ecBlockHeight": 0,
+    "ecBlockId": 0
+  }
+}
