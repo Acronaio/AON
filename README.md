@@ -1,7 +1,7 @@
 # AON - Acrona Open Network.
 
-## [Whitepaper](https://vk.com/doc-151733221_498529150)
+## [Technical Whitepaper](https://drive.google.com/file/u/2/d/1QZZL_ijxPopZwxLYWNd6GM8W16bxqdYm/view?usp=drive_open)
 
-## [Blockchain Whitepaper](https://vk.com/doc-151733221_494208349)
+## [Non-Technical Whitepaper](https://drive.google.com/file/d/1RXV3BjoFO_SFxyNIUvHVMKzgSP6_VKhu/view?usp=drivesdk)
 
 ## Get your [AON Wallet](https://acrona.io)
