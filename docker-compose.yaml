@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  single.node:
+    container_name: single.node
+    image: nxt:2004
+    volumes:
+      - "./nxt_db:/nxt/nxt_db"
+    environment:
+      - JELLY_CONFIG=nxt-default.properties
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        buildno: 1
+    ports:
+#      - "0.0.0.0:7877:7877"
+#      - "0.0.0.0:7875:7875"
+      - "0.0.0.0:7874:7874"
+      - "127.0.0.1:7877:7877"
+      - "127.0.0.1:7875:7875"
+#      - "127.0.0.1:7874:7874"

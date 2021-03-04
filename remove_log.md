@@ -1,0 +1,16 @@
+# Описание nxt апи
+https://nxtwiki.org/wiki/The_Nxt_API
+
+# Список фич
+
+## ACCOUNT PROPERTIES
+## ASSET CREATION
+## ASSET EXCHANGE
+## ALIASES
+## CURRENCY CREATION 
+## DATA CLOUD
+## MARKETPLACE
+## MESSAGING
+## PHASED TRANSACTIONS
+## SHUFFLING    
+## VOTING
